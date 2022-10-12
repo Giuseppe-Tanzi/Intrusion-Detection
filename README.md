@@ -21,10 +21,6 @@ Starting from a given video:
 Whereby a person moves at different speed and is shown in various sizes. Moreover, in the last part the subject steals
 an object belonging to the scene, replacing it with another one.
 
-|   Input Example    |
-|:------------------:|
-| ![](res/input.gif) | 
-
 ### Goal
 
 Development of a software system that, based on automatic video analysis, can detect objects (intruders) that do not
