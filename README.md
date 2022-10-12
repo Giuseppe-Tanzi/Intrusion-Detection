@@ -1,6 +1,15 @@
 # Intrusion Detection System
 
-### Problem introduction
+Authors:
+
+- Daniele Marini
+- Giuseppe Tanzi
+- Iulian Zorila
+
+[Project work](./IPCV_Project_2022.pdf) for the "Image Processing and Computer Vision" course of the Artificial
+Intelligence Master's Degree at University of Bologna.
+
+### Problem
 
 Starting from a given video:
 
@@ -12,8 +21,6 @@ Starting from a given video:
 Whereby a person moves at different speed and is shown in various sizes. Moreover, in the last part the subject steals
 an object belonging to the scene, replacing it with another one.
 
-<img src="res/Intruder.jpeg" width="376" alt="Frame of replaced obejct">
-
 ### Goal
 
 Development of a software system that, based on automatic video analysis, can detect objects (intruders) that do not
@@ -21,3 +28,8 @@ belong to a static reference scene (background) and establish which of such obje
 
 This is achieved by **background subtraction** and blob (Binary Large Object) labeling process, based upon **blob
 features** related to its size.
+
+|   Input Example    |      Output Example       |
+|:------------------:|:-------------------------:|
+| ![](res/input.gif) | ![](https://...Ocean.png) |
+
