@@ -9,9 +9,6 @@ Authors:
 - Giuseppe Tanzi
 - Iulian Zorila
 
-[Project work](./IPCV_Project_2022.pdf) for the "Image Processing and Computer Vision" course of the Artificial
-Intelligence Master's Degree at University of Bologna.
-
 ## Problem
 
 Starting from a given video:
